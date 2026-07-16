@@ -53,7 +53,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Just, Clone this repository -
   ```
-  git clone --depth=1 https://github.com/htr-tech/zphisher.git
+  git clone --depth=1 https://github.com/Laith-Al/Modern-zphisher.git
   ```
 
 - Now go to cloned directory and run `zphisher.sh` -
@@ -76,28 +76,6 @@ $ zphisher
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
 
-##
-
-<p align="left">
-  <a href="https://shell.cloud.google.com/cloudshell/open?cloudshell_git_repo=https://github.com/htr-tech/zphisher.git&tutorial=README.md" target="_blank"><img src="https://gstatic.com/cloudssh/images/open-btn.svg"></a>
-</p>
-
-##
-
-### Installation via ".deb" file
-
-- Download `.deb` files from the [**Latest Release**](https://github.com/htr-tech/zphisher/releases/latest)
-- If you are using ***termux*** then download the `*_termux.deb`
-
-- Install the `.deb` file by executing
-  ```
-  apt install <your path to deb file>
-  ```
-  Or
-  ```
-  $ dpkg -i <your path to deb file>
-  $ apt install -f
-  ```
 
 ##
 
@@ -183,6 +161,7 @@ $ zphisher
     <td><a href="https://github.com/sepp0"><img src="https://avatars.githubusercontent.com/u/36642137?s=100" /><br /><sub><b>sepp0</b></sub></a></td>
     <td><a href="https://github.com/TripleHat"><img src="https://avatars.githubusercontent.com/u/68332137?s=100" /><br /><sub><b>TripleHat</b></sub></a></td>
     <td><a href="https://github.com/Yisus7u7"><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /><sub><b>Yisus7u7</b></sub></a></td>
+    <td><a href="https://github.com/Laith-Al"><img src="https://avatars.githubusercontent.com/u/167680818?s=100" /><br /><sub><b>Laith-Al</b></sub></a></td>
   </tr>
 <table>
 
