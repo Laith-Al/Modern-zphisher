@@ -20,7 +20,7 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
 </p>
 
-<p align="center"><b>A beginners friendly, Automated phishing tool with 30+ templates.</b></p>
+<p align="center"><b>A beginners friendly, Modern automated phishing tool with 30+ templates.</b></p>
 
 ##
 
@@ -38,7 +38,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Features
 
-- Latest and updated login pages.
+- Updated login pages.
 - Beginners friendly
 - Multiple tunneling options
   - Localhost
@@ -75,34 +75,6 @@ $ zphisher
 ```
 ### A Note : 
 ***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
-
-
-##
-
-### Run on Docker
-
-- Docker Image Mirror:
-  - **DockerHub** : 
-    ```
-    docker pull htrtech/zphisher
-    ```
-  - **GHCR** : 
-    ```
-    docker pull ghcr.io/htr-tech/zphisher:latest
-    ```
-
-- By using the wrapper script [**run-docker.sh**](https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh)
-
-  ```
-  $ curl -LO https://raw.githubusercontent.com/htr-tech/zphisher/master/run-docker.sh
-  $ bash run-docker.sh
-  ```
-- Temporary Container
-
-  ```
-  docker run --rm -ti htrtech/zphisher
-  ```
-  - Remember to mount the `auth` directory.
 
 ##
 
