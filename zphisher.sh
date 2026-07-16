@@ -203,7 +203,7 @@ check_status() {
 ## Banner
 banner() {
 	cat <<- EOF
-		${ORANGE}
+		${ORANGE}Modern
 		${ORANGE} ______      _     _     _               
 		${ORANGE}|___  /     | |   (_)   | |              
 		${ORANGE}   / / _ __ | |__  _ ___| |__   ___ _ __ 
