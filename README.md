@@ -6,10 +6,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-2.3.5-green?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/stars/htr-tech/zphisher?style=for-the-badge">
-  <img src="https://img.shields.io/github/issues/htr-tech/zphisher?color=red&style=for-the-badge">
-  <img src="https://img.shields.io/github/forks/htr-tech/zphisher?color=teal&style=for-the-badge">
+  <img src="https://img.shields.io/github/license/Laith-Al/Modern-zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/stars/Laith-Al/Modern-zphisher?style=for-the-badge">
+  <img src="https://img.shields.io/github/issues/Laith-Al/Modern-zphisher?color=red&style=for-the-badge">
+  <img src="https://img.shields.io/github/forks/Laith-Al/Modern-zphisher?color=teal&style=for-the-badge">
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-lightblue?style=flat-square">
   <img src="https://img.shields.io/badge/Written%20In-Bash-darkcyan?style=flat-square">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech%2Fzphisher&title=Visitors&edge_flat=false"/></a>
 </p>
 
 <p align="center"><b>A beginners friendly, Modern automated phishing tool with 30+ templates.</b></p>
@@ -58,8 +57,8 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 - Now go to cloned directory and run `zphisher.sh` -
   ```
-  $ cd zphisher
-  $ bash zphisher.sh
+   cd Modern-zphisher
+   bash zphisher.sh
   ```
 
 - On first launch, It'll install the dependencies and that's it. ***Zphisher*** is installed.
@@ -94,6 +93,7 @@ $ zphisher
 
 - **Ubuntu**
 - **Debian**
+- **WSL**
 - **Arch**
 - **Manjaro**
 - **Fedora**
