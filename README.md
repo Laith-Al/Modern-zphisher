@@ -44,7 +44,6 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
   - Cloudflared
   - LocalXpose
 - Mask URL support 
-- Docker support
 
 ##
 
@@ -65,22 +64,10 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ##
 
-### Installation (Termux)
-You can easily install zphisher in Termux by using tur-repo
-```
-$ pkg install tur-repo
-$ pkg install zphisher
-$ zphisher
-```
-### A Note : 
-***Termux discourages hacking*** .. So never discuss anything related to *zphisher* in any of the termux discussion groups. For more check : [wiki](https://wiki.termux.com/wiki/Hacking)
-
-##
-
 <details>
   <summary><h3>Dependencies</h3></summary>
 
-<b>Zphisher</b> requires following programs to run properly - 
+<b>Zphisher</b> requires following programs to run properly:
 - `git`
 - `curl`
 - `php`
@@ -97,7 +84,6 @@ $ zphisher
 - **Arch**
 - **Manjaro**
 - **Fedora**
-- **Termux**
 </details>
 
 ##
@@ -135,6 +121,8 @@ $ zphisher
     <td><a href="https://github.com/Yisus7u7"><img src="https://avatars.githubusercontent.com/u/64093255?s=100" /><br /><sub><b>Yisus7u7</b></sub></a></td>
     <td><a href="https://github.com/Laith-Al"><img src="https://avatars.githubusercontent.com/u/167680818?s=100" /><br /><sub><b>Laith-Al</b></sub></a></td>
   </tr>
+  <tr align="center">
+   <td><a href="https://github.com/anonymousmouse0"><img src="https://avatars.githubusercontent.com/u/306353713?s=100" /><br /><sub><b>Anonymouse</b></sub></a></td>
+  </tr>
 <table>
-
 <!-- // -->
